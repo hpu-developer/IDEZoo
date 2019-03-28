@@ -1,8 +1,37 @@
 # IDEZoo
 
+<table>
+    <tr> 
+        <td>Languages</td> <td>IDE</td> <td>MacOS</td> <td>Windows</td> <td>Linux</td> 
+    </tr> 
+    <tr> 
+        <td rowspan="3">C/C++</td> <td >Code::Blocks</td> <td>✓</td> <td>✓</td> <td>✓</td> 
+    </tr> 
+    <tr> 
+        <td >Xcode</td> <td>✓</td> <td>✗</td> <td>✗</td> 
+    </tr> 
+    <tr> 
+        <td >Visual Studio</td> <td>✓</td> <td>✓</td> <td>✗</td> 
+    </tr>
+    <tr> 
+        <td >C#</td><td >Visual Studio</td> <td>✓</td> <td>✓</td> <td>✗</td> 
+    </tr>
+    <tr> 
+        <td >JAVA</td><td >Eclipse</td> <td>✓</td> <td>✓</td> <td>✓</td> 
+    </tr> 
+    <tr> 
+        <td >Objective-C</td><td >Xcode</td> <td>✓</td> <td>✗</td> <td>✗</td> 
+    </tr>
+    <tr> 
+        <td >PHP</td><td ></td> <td></td> <td></td> <td></td> 
+    </tr>
+    <tr> 
+        <td >Python</td><td >PyCharm</td> <td>✓</td> <td>✓</td> <td>✓</td> 
+    </tr> 
+    <tr> 
+        <td >Swift</td><td >Xcode</td> <td>✓</td> <td>✗</td> <td>✗</td> 
+    </tr> 
+    
 
-## 项目命名规范
+</table>
 
-- 技术-研究方向 ， 比如 AiLearning-datasets , AiLearning-gloryking 
-- 框架 ：尽量小写，比如 pytorch
-- 框架-功能/研究方向 ：尽量小写，比如 pytorch-hiphop
