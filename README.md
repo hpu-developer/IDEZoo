@@ -17,7 +17,10 @@
         <td >C#</td><td >Visual Studio</td> <td>✓</td> <td>✓</td> <td>✗</td> 
     </tr>
     <tr> 
-        <td >JAVA</td><td >Eclipse</td> <td>✓</td> <td>✓</td> <td>✓</td> 
+        <td rowspan="2">JAVA</td><td >Eclipse</td> <td>✓</td> <td>✓</td> <td>✓</td> 
+    </tr> 
+    <tr> 
+        <td >IntelliJ IDEA</td> <td>✓</td> <td>✓</td> <td>✓</td> 
     </tr> 
     <tr> 
         <td >Objective-C</td><td >Xcode</td> <td>✓</td> <td>✗</td> <td>✗</td> 
